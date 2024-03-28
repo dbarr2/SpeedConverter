@@ -1,4 +1,4 @@
-# Kilometers to Miles Converter in Java
+# Kilometers to Miles Per Hour Converter in Java
 
 This Java application showcases two methods for converting a speed from kilometers per hour (km/h) to miles per hour (mi/h). The first method performs the conversion and returns the value, while the second method prints the conversion result directly, formatted for easy reading.
 
